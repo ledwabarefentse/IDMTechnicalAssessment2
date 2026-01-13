@@ -389,6 +389,16 @@
             "related": ".xml"
           }
         }
+      },
+      "ProductSorting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ProductSorting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductSorting.dll": {}
+        }
       }
     }
   },
@@ -986,6 +996,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ProductSorting/1.0.0": {
+      "type": "project",
+      "path": "../../src/ProductSorting/ProductSorting.csproj",
+      "msbuildProject": "../../src/ProductSorting/ProductSorting.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -993,6 +1008,7 @@
       "MSTest.TestAdapter >= 3.1.1",
       "MSTest.TestFramework >= 3.1.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "ProductSorting >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
@@ -1020,7 +1036,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/void/The Ecosystem/lesibatec/The Organised Ecosystem/5_Relationships/6_Self/3_Power_Fitness/lesibatec/goal_2_new_job/IDMTechnicalAssessment2/src/ProductSorting/ProductSorting.csproj": {
+              "projectPath": "/home/void/The Ecosystem/lesibatec/The Organised Ecosystem/5_Relationships/6_Self/3_Power_Fitness/lesibatec/goal_2_new_job/IDMTechnicalAssessment2/src/ProductSorting/ProductSorting.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

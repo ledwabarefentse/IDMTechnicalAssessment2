@@ -12,3 +12,4 @@
 /home/void/The Ecosystem/lesibatec/The Organised Ecosystem/5_Relationships/6_Self/3_Power_Fitness/lesibatec/goal_2_new_job/IDMTechnicalAssessment2/src/ProductSorting/obj/Debug/net8.0/ProductSorting.pdb
 /home/void/The Ecosystem/lesibatec/The Organised Ecosystem/5_Relationships/6_Self/3_Power_Fitness/lesibatec/goal_2_new_job/IDMTechnicalAssessment2/src/ProductSorting/obj/Debug/net8.0/ProductSorting.genruntimeconfig.cache
 /home/void/The Ecosystem/lesibatec/The Organised Ecosystem/5_Relationships/6_Self/3_Power_Fitness/lesibatec/goal_2_new_job/IDMTechnicalAssessment2/src/ProductSorting/obj/Debug/net8.0/ref/ProductSorting.dll
+/home/void/The Ecosystem/lesibatec/The Organised Ecosystem/5_Relationships/6_Self/3_Power_Fitness/lesibatec/goal_2_new_job/IDMTechnicalAssessment2/src/ProductSorting/obj/Debug/net8.0/ProductSorting.sourcelink.json
